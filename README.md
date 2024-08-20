@@ -1,3 +1,6 @@
+# Information
+If you want to use littlelink, I recommend you fork it from the author! I have added information to this repo, which might confuse you. YOU HAVE BEEN WARNED.
+
 ![Logo](https://cdn.cottle.cloud/littlelink/littlelink.gif)
 
 # LittleLink
